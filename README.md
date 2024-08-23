@@ -1,0 +1,1 @@
+# JS-Alert-Strings-Assigments
